@@ -1,0 +1,21 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "The backend for TheLearnCloud",
+  "main": "server.js",
+  "author": "Sujeet Mahto",
+  "license": "MIT",
+  "dependencies": {
+    "config": "^3.3.9",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.4"
+  },
+  "scripts": {
+    "dev": "nodemon server.js",
+    "server": "node server.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "type": "module"
+}

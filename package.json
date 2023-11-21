@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "dev": "concurrently \"cd backend && nodemon server\" \"cd frontend && yarn run host\""
+  },
+  "devDependencies": {
+    "concurrently": "^8.0.1"
+  }
+}
