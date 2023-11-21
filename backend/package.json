@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "The backend for TheLearnCloud",
   "main": "server.js",
-  "author": "Sujeet Mahto",
+  "author": "Prateek Kumar",
   "license": "MIT",
   "dependencies": {
     "config": "^3.3.9",
